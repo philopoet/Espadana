@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Espadana.Service.Contract/1.0.0": {
+        "runtime": {
+          "Espadana.Service.Contract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Espadana.Service.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

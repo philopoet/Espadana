@@ -1,0 +1,12 @@
+E:\AceAFace\Framework\bin\Debug\Framework.dll
+E:\AceAFace\Framework\bin\Debug\Framework.pdb
+E:\AceAFace\Framework\obj\Debug\Framework.csprojAssemblyReference.cache
+E:\AceAFace\Framework\obj\Debug\Framework.csproj.CoreCompileInputs.cache
+E:\AceAFace\Framework\obj\Debug\Framework.dll
+E:\AceAFace\Framework\obj\Debug\Framework.pdb
+D:\Zamani\WorkSpace\Espadana\Framework\bin\Debug\Framework.dll
+D:\Zamani\WorkSpace\Espadana\Framework\bin\Debug\Framework.pdb
+D:\Zamani\WorkSpace\Espadana\Framework\obj\Debug\Framework.csprojAssemblyReference.cache
+D:\Zamani\WorkSpace\Espadana\Framework\obj\Debug\Framework.csproj.CoreCompileInputs.cache
+D:\Zamani\WorkSpace\Espadana\Framework\obj\Debug\Framework.dll
+D:\Zamani\WorkSpace\Espadana\Framework\obj\Debug\Framework.pdb

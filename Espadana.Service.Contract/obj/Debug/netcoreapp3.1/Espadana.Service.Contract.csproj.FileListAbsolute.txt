@@ -1,0 +1,9 @@
+D:\Zamani\WorkSpace\Espadana\Espadana.Service.Contract\bin\Debug\netcoreapp3.1\Espadana.Service.Contract.deps.json
+D:\Zamani\WorkSpace\Espadana\Espadana.Service.Contract\bin\Debug\netcoreapp3.1\Espadana.Service.Contract.dll
+D:\Zamani\WorkSpace\Espadana\Espadana.Service.Contract\bin\Debug\netcoreapp3.1\Espadana.Service.Contract.pdb
+D:\Zamani\WorkSpace\Espadana\Espadana.Service.Contract\obj\Debug\netcoreapp3.1\Espadana.Service.Contract.csprojAssemblyReference.cache
+D:\Zamani\WorkSpace\Espadana\Espadana.Service.Contract\obj\Debug\netcoreapp3.1\Espadana.Service.Contract.AssemblyInfoInputs.cache
+D:\Zamani\WorkSpace\Espadana\Espadana.Service.Contract\obj\Debug\netcoreapp3.1\Espadana.Service.Contract.AssemblyInfo.cs
+D:\Zamani\WorkSpace\Espadana\Espadana.Service.Contract\obj\Debug\netcoreapp3.1\Espadana.Service.Contract.csproj.CoreCompileInputs.cache
+D:\Zamani\WorkSpace\Espadana\Espadana.Service.Contract\obj\Debug\netcoreapp3.1\Espadana.Service.Contract.dll
+D:\Zamani\WorkSpace\Espadana\Espadana.Service.Contract\obj\Debug\netcoreapp3.1\Espadana.Service.Contract.pdb

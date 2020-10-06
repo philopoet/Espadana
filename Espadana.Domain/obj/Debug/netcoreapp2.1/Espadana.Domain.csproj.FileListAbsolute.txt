@@ -1,0 +1,12 @@
+D:\Zamani\WorkSpace\Espadana\Espadana.Domain\bin\Debug\netcoreapp2.1\Espadana.Domain.deps.json
+D:\Zamani\WorkSpace\Espadana\Espadana.Domain\bin\Debug\netcoreapp2.1\Espadana.Domain.dll
+D:\Zamani\WorkSpace\Espadana\Espadana.Domain\bin\Debug\netcoreapp2.1\Espadana.Domain.pdb
+D:\Zamani\WorkSpace\Espadana\Espadana.Domain\bin\Debug\netcoreapp2.1\Framework.dll
+D:\Zamani\WorkSpace\Espadana\Espadana.Domain\bin\Debug\netcoreapp2.1\Framework.pdb
+D:\Zamani\WorkSpace\Espadana\Espadana.Domain\obj\Debug\netcoreapp2.1\Espadana.Domain.csprojAssemblyReference.cache
+D:\Zamani\WorkSpace\Espadana\Espadana.Domain\obj\Debug\netcoreapp2.1\Espadana.Domain.AssemblyInfoInputs.cache
+D:\Zamani\WorkSpace\Espadana\Espadana.Domain\obj\Debug\netcoreapp2.1\Espadana.Domain.AssemblyInfo.cs
+D:\Zamani\WorkSpace\Espadana\Espadana.Domain\obj\Debug\netcoreapp2.1\Espadana.Domain.csproj.CoreCompileInputs.cache
+D:\Zamani\WorkSpace\Espadana\Espadana.Domain\obj\Debug\netcoreapp2.1\Espadana.Domain.csproj.CopyComplete
+D:\Zamani\WorkSpace\Espadana\Espadana.Domain\obj\Debug\netcoreapp2.1\Espadana.Domain.dll
+D:\Zamani\WorkSpace\Espadana\Espadana.Domain\obj\Debug\netcoreapp2.1\Espadana.Domain.pdb

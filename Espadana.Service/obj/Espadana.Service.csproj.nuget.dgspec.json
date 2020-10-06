@@ -1,0 +1,301 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Zamani\\WorkSpace\\Espadana\\Espadana.Service\\Espadana.Service.csproj": {}
+  },
+  "projects": {
+    "D:\\FrmLaptop\\Zamani\\AceAFace\\Framework\\Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FrmLaptop\\Zamani\\AceAFace\\Framework\\Framework.csproj",
+        "projectName": "Framework",
+        "projectPath": "D:\\FrmLaptop\\Zamani\\AceAFace\\Framework\\Framework.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "D:\\Zamani\\WorkSpace\\Espadana\\Espadana.Domain\\Espadana.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Zamani\\WorkSpace\\Espadana\\Espadana.Domain\\Espadana.Domain.csproj",
+        "projectName": "Espadana.Domain",
+        "projectPath": "D:\\Zamani\\WorkSpace\\Espadana\\Espadana.Domain\\Espadana.Domain.csproj",
+        "packagesPath": "C:\\Users\\Abdollah Zamani\\.nuget\\packages\\",
+        "outputPath": "D:\\Zamani\\WorkSpace\\Espadana\\Espadana.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Abdollah Zamani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\FrmLaptop\\Zamani\\AceAFace\\Framework\\Framework.csproj": {
+                "projectPath": "D:\\FrmLaptop\\Zamani\\AceAFace\\Framework\\Framework.csproj"
+              },
+              "D:\\Zamani\\WorkSpace\\Espadana\\Framework\\Framework.csproj": {
+                "projectPath": "D:\\Zamani\\WorkSpace\\Espadana\\Framework\\Framework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Zamani\\WorkSpace\\Espadana\\Espadana.Persistence\\Espadana.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Zamani\\WorkSpace\\Espadana\\Espadana.Persistence\\Espadana.Persistence.csproj",
+        "projectName": "Espadana.Persistence",
+        "projectPath": "D:\\Zamani\\WorkSpace\\Espadana\\Espadana.Persistence\\Espadana.Persistence.csproj",
+        "packagesPath": "C:\\Users\\Abdollah Zamani\\.nuget\\packages\\",
+        "outputPath": "D:\\Zamani\\WorkSpace\\Espadana\\Espadana.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Abdollah Zamani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\Zamani\\WorkSpace\\Espadana\\Espadana.Domain\\Espadana.Domain.csproj": {
+                "projectPath": "D:\\Zamani\\WorkSpace\\Espadana\\Espadana.Domain\\Espadana.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.8, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Zamani\\WorkSpace\\Espadana\\Espadana.Service.Contract\\Espadana.Service.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Zamani\\WorkSpace\\Espadana\\Espadana.Service.Contract\\Espadana.Service.Contract.csproj",
+        "projectName": "Espadana.Service.Contract",
+        "projectPath": "D:\\Zamani\\WorkSpace\\Espadana\\Espadana.Service.Contract\\Espadana.Service.Contract.csproj",
+        "packagesPath": "C:\\Users\\Abdollah Zamani\\.nuget\\packages\\",
+        "outputPath": "D:\\Zamani\\WorkSpace\\Espadana\\Espadana.Service.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Abdollah Zamani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Zamani\\WorkSpace\\Espadana\\Espadana.Service\\Espadana.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Zamani\\WorkSpace\\Espadana\\Espadana.Service\\Espadana.Service.csproj",
+        "projectName": "Espadana.Service",
+        "projectPath": "D:\\Zamani\\WorkSpace\\Espadana\\Espadana.Service\\Espadana.Service.csproj",
+        "packagesPath": "C:\\Users\\Abdollah Zamani\\.nuget\\packages\\",
+        "outputPath": "D:\\Zamani\\WorkSpace\\Espadana\\Espadana.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Abdollah Zamani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "D:\\Zamani\\WorkSpace\\Espadana\\Espadana.Domain\\Espadana.Domain.csproj": {
+                "projectPath": "D:\\Zamani\\WorkSpace\\Espadana\\Espadana.Domain\\Espadana.Domain.csproj"
+              },
+              "D:\\Zamani\\WorkSpace\\Espadana\\Espadana.Persistence\\Espadana.Persistence.csproj": {
+                "projectPath": "D:\\Zamani\\WorkSpace\\Espadana\\Espadana.Persistence\\Espadana.Persistence.csproj"
+              },
+              "D:\\Zamani\\WorkSpace\\Espadana\\Espadana.Service.Contract\\Espadana.Service.Contract.csproj": {
+                "projectPath": "D:\\Zamani\\WorkSpace\\Espadana\\Espadana.Service.Contract\\Espadana.Service.Contract.csproj"
+              },
+              "D:\\Zamani\\WorkSpace\\Espadana\\Framework\\Framework.csproj": {
+                "projectPath": "D:\\Zamani\\WorkSpace\\Espadana\\Framework\\Framework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Zamani\\WorkSpace\\Espadana\\Framework\\Framework.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Zamani\\WorkSpace\\Espadana\\Framework\\Framework.csproj",
+        "projectName": "Framework",
+        "projectPath": "D:\\Zamani\\WorkSpace\\Espadana\\Framework\\Framework.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    }
+  }
+}

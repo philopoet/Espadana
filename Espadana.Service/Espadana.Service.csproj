@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Espadana.Domain\Espadana.Domain.csproj" />
+    <ProjectReference Include="..\Espadana.Persistence\Espadana.Persistence.csproj" />
+    <ProjectReference Include="..\Espadana.Service.Contract\Espadana.Service.Contract.csproj" />
+    <ProjectReference Include="..\Framework\Framework.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Contracts\" />
+  </ItemGroup>
+
+</Project>
